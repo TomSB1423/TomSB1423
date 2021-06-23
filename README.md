@@ -31,9 +31,10 @@
 - 📫 How to reach me **tsbushell@outlook.com**
 <p>
 
-
-<p><img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=tomsb1423&" alt="tomsb1423" /></p> 
-<p><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomsb1423&show_icons=true&locale=en&layout=compact" alt="tomsb1423" /></p>
+<p align="center">
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tomsb1423&" alt="tomsb1423" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomsb1423&show_icons=true&locale=en&layout=compact" alt="tomsb1423" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p align="left"> <a href="https://twitter.com/tomsb1423" target="blank"><img src="https://img.shields.io/twitter/follow/tomsb1423?logo=twitter&style=for-the-badge" alt="tomsb1423" /></a> </p>
