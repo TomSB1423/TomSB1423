@@ -24,8 +24,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [tsbushell.web.app](https://tsbushell.web.app/)
-
 - 💬 Ask me anything about **Python ;)**
 
 - 📫 How to reach me **tsbushell@outlook.com**
