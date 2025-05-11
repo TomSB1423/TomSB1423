@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate full stack developer from the UK</h3>
+<h3 align="center">A software engineer with a background in physics.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomsb1423&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=2&margin-w=15" alt="tomsb1423" /></a> </p>
 
@@ -18,13 +18,13 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-- 🔭 I’m currently working on [Wondur](https://wondurapp.com/)
+- 🔭 I’m interested in projects that solve real problems and have a clear, positive impact. Whether it’s a clean script that saves someone hours or a tool that scales to help many, I care about making things that matter.
 
-- 🌱 Acquiring **React** as a new skill!
+- 🌱 Always learning, always up for a challenge. 
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 If you're working on something useful or unusual, I’d love to hear about it.
 
-- 💬 Ask me anything about **Python ;)**
+- 💬 Ask me anything about **Python**
 
 - 📫 How to reach me **tsbushell@outlook.com**
 <p>
