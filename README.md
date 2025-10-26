@@ -58,8 +58,6 @@ A few things I’ve worked on or am building now:
 
 - 💡 [wizLightController](https://github.com/TomSB1423/wizLightController): Macro keys to control my smart lights at home
 
-- 📈 Data Workflows: Lightweight ML models with real-world use cases (forecasting, classification, text analysis).
-
 > [!NOTE]
 > I care less about fancy demos and more about whether it works, is useful, and can be maintained by the next person.
 
